@@ -6,11 +6,11 @@
 
 ### About
 
-**Bioinformatics undergraduate** at Chungnam National University <br/>
+**Undergraduate Researcher** at Systems Biology Lab, Dept. of Convergent Bioscience and Informatics, Chungnam National University <br/>
 **Research Intern** at KAIST · IBS Biomedical Mathematics Group (BIMAG)
 
 I build analysis pipelines for **single-cell and spatial omics** —
-<br/>finding robust cell states, reliable clusters, and the genes that define them.
+<br/>finding robust cell states and reliable clusters, and translating them into **biological interpretation**.
 
 <br/>
 
@@ -41,6 +41,7 @@ I build analysis pipelines for **single-cell and spatial omics** —
 
 <img src="https://img.shields.io/badge/Scanpy-1a1a1a?style=flat-square&logo=python&logoColor=FFD43B" height="28" alt="Scanpy"/>
 <img src="https://img.shields.io/badge/AnnData-1a1a1a?style=flat-square&logo=python&logoColor=FFD43B" height="28" alt="AnnData"/>
+<img src="https://img.shields.io/badge/Biopython-1a1a1a?style=flat-square&logo=python&logoColor=FFD43B" height="28" alt="Biopython"/>
 <img src="https://img.shields.io/badge/scLENS-1a1a1a?style=flat-square&logo=julia&logoColor=9558B2" height="28" alt="scLENS"/>
 <img src="https://img.shields.io/badge/scICE-1a1a1a?style=flat-square&logo=julia&logoColor=9558B2" height="28" alt="scICE"/>
 <img src="https://img.shields.io/badge/SpaGE-1a1a1a?style=flat-square&logo=python&logoColor=FFD43B" height="28" alt="SpaGE"/>
@@ -86,7 +87,7 @@ I build analysis pipelines for **single-cell and spatial omics** —
 <a href="https://scholar.google.com/citations?user=ID"><img src="https://img.shields.io/badge/Google_Scholar-1a1a1a?style=flat-square&logo=googlescholar&logoColor=4285F4" height="28" alt="Google Scholar"/></a>
 -->
 <br/>
-<sub>Chungnam National University · Dept. of Bioinformatics &nbsp;|&nbsp; KAIST · IBS BIMAG</sub>
+<sub>Chungnam National University · Systems Biology Lab &nbsp;|&nbsp; KAIST · IBS BIMAG</sub>
 
 <br/><br/>
 
